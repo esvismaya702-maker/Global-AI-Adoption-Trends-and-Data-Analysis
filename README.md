@@ -37,6 +37,4 @@ and governance indicators. The analysis highlights adoption rates, productivity 
 - Scalable dataset suitable for advanced analytics and machine learning  
 
 
-This version is plain Markdown with no icons or bold stars, so it will render cleanly in GitHub.  
 
-Do you want me to also add **Installation, Usage, and Contributing sections** so it looks like a complete open-source project template?
